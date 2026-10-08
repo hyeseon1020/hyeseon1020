@@ -65,7 +65,7 @@
 - java&spring boot 통해서 api 진행
 - DB: postgreSQL
 
-### ⌨️ DIHS CRM &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-CRM%20PICK-F472B6?logo=github)](https://github.com/WONDongin/project-crm)
+### ⌨️ DIHS CRM &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-CRM-F472B6?logo=github)](https://github.com/WONDongin/project-crm)
 > 수동으로 관리되던 상담 및 고객 관리 프로세스를  
 > 체계화하기 위해 설계한 운영형 CRM 시스템
 
