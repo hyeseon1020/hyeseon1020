@@ -56,7 +56,7 @@
 <br/>
 
 ### Highlight Projects
-### 🍚 Zipbob PICK &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Zipbob%20PICK-F472B6?logo=github)](https://github.com/WONDongin/zipbob_app)
+### 🍚 Zipbob PICK &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Zipbob%20PICK-F472B6?logo=github)](https://github.com/hyeseon1020/zipbob_back)
 > 오늘 먹을 메뉴를 고르고 레시피를 탐색하는 Flutter 모바일 앱  
 > 음식 카테고리와 특징을 선택하는 추천 화면을 구현 중인 협업 프로젝트
 
