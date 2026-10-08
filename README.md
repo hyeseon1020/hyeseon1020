@@ -65,6 +65,15 @@
 - java&spring boot 통해서 api 진행
 - DB: postgreSQL
 
+### ⌨️ DIHS CRM &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-CRM%20PICK-F472B6?logo=github)](https://github.com/WONDongin/project-crm)
+> 수동으로 관리되던 상담 및 고객 관리 프로세스를  
+> 체계화하기 위해 설계한 운영형 CRM 시스템
+
+- 상담 신청 → 고객 관리 → 상담 기록까지 이어지는 데이터 흐름 설계
+- 관리자/상담사 권한 분리를 통한 역할 기반 기능 분리 구현
+- 운영 관점에서 데이터 관리 효율성을 고려한 구조 설계
+
+
 ### 💌 Invitation &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Invitaiton-F472B6?logo=github)](https://github.com/hyeseon1020/invitation)
 > 결혼 청첩장 기반으로 개발 진행한 모바일 초대장 개발 <Br>
 > 1차 개발 완료상태로 추후 생일파티 초대장 등 다양하게 활용 가능한 초대장 개발 예정
