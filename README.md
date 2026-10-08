@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8b5cf6,ec4899&text=데이터를%20설계하고%2C%20서비스로%20연결합니다&desc=3년간의%20DB%20개발·관리%20경험을%20바탕으로%20Java%20·%20Spring%20Boot까지%20역량을%20넓혀가는%20개발자&fontSize=35&fontAlignY=40&descSize=14&descAlign=50&descAlignY=55&animation=twinkling&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:ec4899,100:f472b6&text=데이터를%20설계하고%2C%20서비스로%20연결합니다&desc=3년간의%20DB%20개발·관리%20경험을%20바탕으로%20Java%20·%20Spring%20Boot까지%20역량을%20넓혀가는%20개발자&fontColor=ffffff&fontSize=35&fontAlignY=40&descSize=14&descAlign=50&descAlignY=55&animation=twinkling&height=250)
 
 > 3년간의 DB 개발·관리 경험을 바탕으로 Java · Spring Boot까지 역량을 넓혀가는 개발자 
 
@@ -56,6 +56,13 @@
 <br/>
 
 ### Highlight Projects
+### 🍚 Zipbob PICK &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Zipbob%20PICK-F472B6?logo=github)](https://github.com/hyeseon1020/zipbob_back)
+> 오늘 먹을 메뉴를 고르고 레시피를 탐색하는 Flutter 모바일 앱  
+> 음식 카테고리와 특징을 선택하는 추천 화면을 구현 중인 협업 프로젝트
+
+- Flutter 기반 홈·전체 메뉴·레시피·조건 추천 화면 구성
+- 카테고리 단일 선택과 음식 특징 다중 선택 UI 구현
+
 ### 🍚 Zipbob PICK &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Zipbob%20PICK-F472B6?logo=github)](https://github.com/hyeseon1020/zipbob_back)
 > 오늘 먹을 메뉴를 고르고 레시피를 탐색하는 Flutter 모바일 앱  
 > 음식 카테고리와 특징을 선택하는 추천 화면을 구현 중인 협업 프로젝트
