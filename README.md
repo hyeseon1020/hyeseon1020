@@ -70,9 +70,8 @@
 > 체계화하기 위해 설계한 운영형 CRM 시스템
 
 - 상담 신청 → 고객 관리 → 상담 기록까지 이어지는 데이터 흐름 설계
-- 관리자/상담사 권한 분리를 통한 역할 기반 기능 분리 구현
 - 운영 관점에서 데이터 관리 효율성을 고려한 구조 설계
-
+- 협업 프로젝트
 
 ### 💌 Invitation &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Invitaiton-F472B6?logo=github)](https://github.com/hyeseon1020/invitation)
 > 결혼 청첩장 기반으로 개발 진행한 모바일 초대장 개발 <Br>
@@ -82,11 +81,13 @@
 - 웹, 모바일에서 확인 가능하며 참석여부 기능 구현
 - 초대장 테마를 생성하여 테마별 UI 구현예정
 
-
 ### 🔬LG Chemistry &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LG%20Chemistry-F472B6?logo=github)](https://github.com/hyeseon1020/hyeseon1020.github.io)
 > 웹퍼블리셔의 두번째 발걸음 LG화학 UI 재구성 개발
 
 - HTML, CSS(flex,css변수), script(jQuery,library), 반응형
+
+
+
   
 <!--
 **hyeseon1020/hyeseon1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
