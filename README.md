@@ -66,7 +66,7 @@
 - DB: postgreSQL
 
 ### 🍚 Invitation &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Invitaiton-F472B6?logo=github)](https://github.com/hyeseon1020/invitation)
-> 결혼 청첩장 기반으로 모바일 초대장
+> 결혼 청첩장 기반으로 개발 진행한 모바일 초대장 개발
 > 1차 개발 완료상태로 추후 생일파티 초대장 등 다양하게 활용 가능한 초대장 개발 예정
 
 - PHP언어와 MYSQL DBMS 사용
