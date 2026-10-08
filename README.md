@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=a855f7,f472b6&text=데이터를%20설계하고%2C%20서비스로%20연결합니다&desc=3년간의%20DB%20개발·관리%20경험을%20바탕으로%20Java%20·%20Spring%20Boot까지%20역량을%20넓혀가는%20개발자&fontSize=35&fontAlignY=40&descSize=14&descAlign=50&descAlignY=55&animation=twinkling&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8b5cf6,ec4899&text=데이터를%20설계하고%2C%20서비스로%20연결합니다&desc=3년간의%20DB%20개발·관리%20경험을%20바탕으로%20Java%20·%20Spring%20Boot까지%20역량을%20넓혀가는%20개발자&fontSize=35&fontAlignY=40&descSize=14&descAlign=50&descAlignY=55&animation=twinkling&height=250)
 
 > 3년간의 DB 개발·관리 경험을 바탕으로 Java · Spring Boot까지 역량을 넓혀가는 개발자 
 
