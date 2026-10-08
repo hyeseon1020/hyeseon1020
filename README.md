@@ -57,7 +57,7 @@
 
 ### Highlight Projects
 ### 🍚 Zipbob PICK &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Zipbob%20PICK-F472B6?logo=github)](https://github.com/hyeseon1020/zipbob_back)
-> 오늘 먹을 메뉴를 고르고 레시피를 탐색하는 Flutter 모바일 앱  
+> 오늘 먹을 메뉴를 고르고 레시피를 탐색하는 Flutter 모바일 앱  <Br>
 > 음식 카테고리와 특징을 선택하는 추천 화면을 구현 중인 협업 프로젝트
 
 - Flutter 기반 홈·전체 메뉴·레시피·조건 추천 화면 구성
@@ -65,13 +65,19 @@
 - java&spring boot 통해서 api 진행
 - DB: postgreSQL
 
-### 🍚 Invitation &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Invitaiton-F472B6?logo=github)](https://github.com/hyeseon1020/invitation)
-> 결혼 청첩장 기반으로 개발 진행한 모바일 초대장 개발
+### 💌 Invitation &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Invitaiton-F472B6?logo=github)](https://github.com/hyeseon1020/invitation)
+> 결혼 청첩장 기반으로 개발 진행한 모바일 초대장 개발 <Br>
 > 1차 개발 완료상태로 추후 생일파티 초대장 등 다양하게 활용 가능한 초대장 개발 예정
 
 - PHP언어와 MYSQL DBMS 사용
 - 웹, 모바일에서 확인 가능하며 참석여부 기능 구현
 - 초대장 테마를 생성하여 테마별 UI 구현예정
+
+
+### 🔬LG Chemistry &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LG%20Chemistry-F472B6?logo=github)](https://github.com/hyeseon1020/hyeseon1020.github.io)
+> 웹퍼블리셔의 두번째 발걸음 LG화학 UI 재구성 개발
+
+- HTML, CSS(flex,css변수), script(jQuery,library), 반응형
   
 <!--
 **hyeseon1020/hyeseon1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
